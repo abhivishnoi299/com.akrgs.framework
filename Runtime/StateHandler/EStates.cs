@@ -1,4 +1,4 @@
-namespace AKRGS.Framework
+namespace AKRGS.Framework.States
 {
     public enum EStates : byte
     {

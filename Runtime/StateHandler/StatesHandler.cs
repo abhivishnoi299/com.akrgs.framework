@@ -4,13 +4,14 @@ using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using UnityEngine;
 
-namespace AKRGS.Framework
+namespace AKRGS.Framework.States
 {
     public class StatesHandler : MonoBehaviour
     {
         #region Serialized variable
         [SerializeField] EStates m_states;
         #endregion
+
 
         #region private variable
         private static StatesHandler s_instance;

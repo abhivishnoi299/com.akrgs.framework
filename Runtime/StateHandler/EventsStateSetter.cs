@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace AKRGS.Framework
+namespace AKRGS.Framework.States
 {
     [Serializable]
     public struct SingleValueEventData<T>
