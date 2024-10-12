@@ -17,5 +17,12 @@
     "com.unity.xr.arfoundation": "5.1.5",
     "com.unity.xr.arkit": "5.1.5",
     "com.unity.xr.arcore": "5.1.5"
-  }
+  },
+"samples": [
+    {
+      "displayName": "Cinemachine Example Scenes",
+      "description": "Sample scenes illustrating various ways to use Cinemachine",
+      "path": "Samples~/Cinemachine Example Scenes"
+    }
+  ]
 }
